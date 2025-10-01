@@ -1,2 +1,2 @@
 # dispro_corpus
-The corpus of Dispro project
+The corpus files of Dispro project
